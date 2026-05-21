@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="public/images/MAin Logo.png" alt="Gobaad Bank Logo" width="100" />
@@ -327,3 +328,7 @@ For academic and educational use only — not licensed for commercial deployment
   <br/>
   <sub><em>Gobaad Bank Management System — Final Year Project</em></sub>
 </div>
+=======
+# BankSystem
+A modern and secure banking management system developed as a final year university project to simplify banking operations and improve user experience.
+>>>>>>> a7f4b53c8396c70f67ba8cb27333c10012c3ee84
