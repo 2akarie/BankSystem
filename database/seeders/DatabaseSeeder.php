@@ -166,7 +166,7 @@ class DatabaseSeeder extends Seeder
             ['ident_number' => 'ADM-001'],
             [
                 'full_name'    => 'System Administrator',
-                'email'        => 'abdallasport12@gmail.com',
+                'email'        => 'zakariekamka62@gmail.com',
                 'ident_number' => 'ADM-001',
                 'password'     => Hash::make('password'),
                 'role_id'      => $superAdminRoleId,
