@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="public/images/MAin Logo.png" alt="Gobaad Bank Logo" width="100" />
